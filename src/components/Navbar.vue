@@ -46,7 +46,6 @@ export default {
           Foldername: 'Folder06',
           ParentFolder: '4',
         },
-        ,
         {
           id: 7,
           Foldername: 'Folder07',
