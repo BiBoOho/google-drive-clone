@@ -50,6 +50,12 @@ export default {
           id: 7,
           Foldername: 'Folder07',
           ParentFolder: '1',
+        },
+        ,
+        {
+          id: 8,
+          Foldername: 'Folder08',
+          ParentFolder: '7',
         }
       ];
 
