@@ -19,7 +19,7 @@ const url = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6A
                     v-model="input1"
                     class="m-2 input-search"
                     size="large"
-                    placeholder="Search in kintone"
+                    placeholder="Search folder in kintone"
                     :prefix-icon="Search"
                     />
             </div>
