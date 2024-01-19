@@ -60,26 +60,6 @@ export default {
           id: 9,
           Foldername: 'Folder09',
           ParentFolder: '7',
-        },
-        {
-          id: 10,
-          Foldername: 'Folder19',
-          ParentFolder: '1',
-        },
-        {
-          id: 11,
-          Foldername: 'Folder11',
-          ParentFolder: '2',
-        },
-        {
-          id: 12,
-          Foldername: 'Folder12',
-          ParentFolder: '2',
-        },
-        {
-          id: 13,
-          Foldername: 'Folder13',
-          ParentFolder: '12',
         }
       ];
 
