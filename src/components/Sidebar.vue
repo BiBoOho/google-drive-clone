@@ -88,7 +88,7 @@
           <a @click="changeActiveMenu" id="recent">
             <!-- <i class="fa-solid fa-clock"></i> -->
             <el-icon><Timer /></el-icon>
-            Recent
+            Recenttttttttttttt
           </a>
         </div>
 
