@@ -64,14 +64,7 @@
           <div class="link">
             <a @click="changeActiveMenu" id="spam">
               <i class="fa-solid fa-circle-exclamation"></i>
-              sonsor
-            </a>
-          </div>
-
-          <div class="link">
-            <a @click="changeActiveMenu" id="spam">
-              <i class="fa-solid fa-circle-exclamation"></i>
-              pepsi
+              Spam
             </a>
           </div>
   

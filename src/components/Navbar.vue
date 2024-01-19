@@ -70,22 +70,8 @@ export default {
           id: 11,
           Foldername: 'Folder11',
           ParentFolder: '2',
-        },
-        {
-          id: 12,
-          Foldername: 'Folder12',
-          ParentFolder: '2',
-        },
-        {
-          id: 13,
-          Foldername: 'Folder13',
-          ParentFolder: '12',
-        },
-        {
-          id: 14,
-          Foldername: 'Folder14',
-          ParentFolder: '12',
         }
+        
       ];
 
       let result = {};
