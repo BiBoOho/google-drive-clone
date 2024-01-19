@@ -110,7 +110,7 @@
 
         <div class="link">
           <a @click="changeActiveMenu" id="sponsor">
-            <!-- <i class="fa-solid fa-circle-exclamation"></i> -->
+            <i class="fa-solid fa-circle-exclamation"></i>
             <el-icon><Warning /></el-icon>
             sponsor2
           </a>
@@ -118,7 +118,7 @@
 
         <div class="link">
           <a @click="changeActiveMenu" id="trash">
-            <!-- <i class="fa-solid fa-trash-can"></i> -->
+            <i class="fa-solid fa-trash-can"></i>
             <el-icon><Delete /></el-icon>
             Trash
           </a>
