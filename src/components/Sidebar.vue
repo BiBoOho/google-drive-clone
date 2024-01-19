@@ -174,16 +174,7 @@ export default {
       $(e.target).toggleClass("fa-angle-down");
     },
     changeActiveMenu(e) {
-      // console.log(e.target.tagName);
-      // if(document.querySelectorAll('.sidebar-menu .sidebar .links .link a.active').length>0){
-      //   if(e.target.tagName.toUpperCase() == 'A'){
-      //     document.querySelector('.sidebar-menu .sidebar .links .link a.active').classList.remove('active');
-      //     e.target.classList.add('active');
-      //     console.log(e.target.id);
-      //     let id = e.target.id;
-      //     this.$emit("changeMenu", id);
-      //   }
-      // }
+      
       if (e.target.tagName.toUpperCase() != "A") return;
       let id = e.target.id;
       if ($(".sidebar-menu .sidebar .links .link a.active").length > 0) {
