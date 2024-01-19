@@ -101,6 +101,30 @@
         </div>
 
         <div class="link">
+          <a @click="changeActiveMenu" id="spam">
+            <!-- <i class="fa-solid fa-circle-exclamation"></i> -->
+            <el-icon><Warning /></el-icon>
+            Spam
+          </a>
+        </div>
+
+        <div class="link">
+          <a @click="menuActive" id="sponsor">
+            <!-- <i class="fa-solid fa-circle-exclamation"></i> -->
+            <el-icon><Warning /></el-icon>
+            sponsor
+          </a>
+        </div>
+
+        <div class="link">
+          <a @click="changeActiveMenu" id="trash">
+            <!-- <i class="fa-solid fa-trash-can"></i> -->
+            <el-icon><Delete /></el-icon>
+            Trash
+          </a>
+        </div>
+
+        <div class="link">
           <a @click="changeActiveMenu" id="storage">
             <!-- <i class="fa-solid fa-cloud"></i> -->
             <el-icon><MostlyCloudy /></el-icon>
