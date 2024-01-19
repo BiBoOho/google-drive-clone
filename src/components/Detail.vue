@@ -3,6 +3,18 @@
     <h1>New update</h1>
     <p>Detail</p>
     <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
     {{ data }}
 
  </div>
