@@ -57,19 +57,6 @@ export default {
           ParentFolder: '1',
         },
         {
-<<<<<<< HEAD
-=======
-          id: 9,
-          Foldername: 'Folder09',
-          ParentFolder: '7',
-        },
-        {
-          id: 10,
-          Foldername: 'Folder10',
-          ParentFolder: '1',
-        },
-        {
->>>>>>> cafc598998aeec924429a80f316f4cb30fb2d65a
           id: 11,
           Foldername: 'Folder11',
           ParentFolder: '1',
