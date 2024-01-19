@@ -131,6 +131,14 @@
             Storage
           </a>
         </div>
+        
+        <div class="link">
+          <a @click="changeActiveMenu" id="storage">
+            <!-- <i class="fa-solid fa-cloud"></i> -->
+            <el-icon><MostlyCloudy /></el-icon>
+            Storage
+          </a>
+        </div>
       </div>
     </div>
   </div>
