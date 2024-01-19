@@ -2,6 +2,18 @@
  <div>
     <p>Detail</p>
     <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
+    <p>phiong</p>
     {{ data }}
  </div>
 </template>
