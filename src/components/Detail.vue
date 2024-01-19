@@ -1,8 +1,10 @@
 <template>
  <div>
+    <h1>New update</h1>
     <p>Detail</p>
     <p>phiong</p>
     {{ data }}
+
  </div>
 </template>
 
