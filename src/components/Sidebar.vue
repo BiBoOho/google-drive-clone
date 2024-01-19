@@ -109,10 +109,10 @@
         </div>
 
         <div class="link">
-          <a @click="menuActive" id="sponsor">
+          <a @click="changeActiveMenu" id="sponsor">
             <!-- <i class="fa-solid fa-circle-exclamation"></i> -->
             <el-icon><Warning /></el-icon>
-            sponsor
+            sponsor2
           </a>
         </div>
 
