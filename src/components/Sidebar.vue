@@ -96,7 +96,7 @@
           <a @click="changeActiveMenu" id="starred">
             <!-- <i class="fa-solid fa-star"></i> -->
             <el-icon><CollectionTag /></el-icon>
-            Starred
+            Pepsi
           </a>
         </div>
 
