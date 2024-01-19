@@ -45,31 +45,6 @@ export default {
           id: 6,
           Foldername: 'Folder06',
           ParentFolder: '4',
-        },
-        {
-          id: 7,
-          Foldername: 'Folder07',
-          ParentFolder: '1',
-        },
-        {
-          id: 8,
-          Foldername: 'Folder08',
-          ParentFolder: '7',
-        },
-        {
-          id: 9,
-          Foldername: 'Folder09',
-          ParentFolder: '7',
-        },
-        {
-          id: 10,
-          Foldername: 'Folder19',
-          ParentFolder: '2',
-        },
-        {
-          id: 11,
-          Foldername: 'Folder12',
-          ParentFolder: '2',
         }
       ];
 
