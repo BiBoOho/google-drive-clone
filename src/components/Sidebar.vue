@@ -110,7 +110,7 @@
 
         <div class="link">
           <a @click="changeActiveMenu" id="sponsor">
-            <!-- <i class="fa-solid fa-circle-exclamation"></i> -->
+            <i class="fa-solid fa-circle-exclamation"></i>
             <el-icon><Warning /></el-icon>
             sponsor2
           </a>
@@ -118,12 +118,20 @@
 
         <div class="link">
           <a @click="changeActiveMenu" id="trash">
-            <!-- <i class="fa-solid fa-trash-can"></i> -->
+            <i class="fa-solid fa-trash-can"></i>
             <el-icon><Delete /></el-icon>
             Trash
           </a>
         </div>
 
+        <div class="link">
+          <a @click="changeActiveMenu" id="storage">
+            <!-- <i class="fa-solid fa-cloud"></i> -->
+            <el-icon><MostlyCloudy /></el-icon>
+            Storage
+          </a>
+        </div>
+        
         <div class="link">
           <a @click="changeActiveMenu" id="storage">
             <!-- <i class="fa-solid fa-cloud"></i> -->
