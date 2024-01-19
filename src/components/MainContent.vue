@@ -114,7 +114,7 @@ export default {
                 "name" : attachment.name,
                 "date": record.Created_datetime.value,
                 "owner": 'Me',
-                "address": 'My drive',
+                "address": 'My drive 2',
                 "action": 'Action'
               });
             });
